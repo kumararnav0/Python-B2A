@@ -6,14 +6,14 @@
 # individual_bill=float(total_bill/no_of_persons)
 # print("Each person has to pay "+individual_bill)
 
-
+print("Welcome to Tip Calculator")
 net_bill=input("Enter the amount of bill \n")
 net_bill1=float(net_bill)
-tip=input("whats the percent of net bill as tip \n")
+tip=input("Whats the percent of net bill as tip \n")
 tip1=float(tip)
 total_bill=net_bill1*(1+(tip1/100))
 print(total_bill)
 no_of_person=int (input("What's the no of persons? \n"))
 
-individual_bill=total_bill/no_of_person
+individual_bill=round(total_bill/no_of_person,2)
 print(f"Each person has to pay {individual_bill} \n")
