@@ -53,7 +53,7 @@ if(a=="R" and p==1):
     print("It's a draw")
 elif(a=="R" and p==2):
     print("You lose")  
-elif(a=="R" and p==2):
+elif(a=="R" and p==3):
     print("You won")    
 
 elif(a=="P" and p==3):
