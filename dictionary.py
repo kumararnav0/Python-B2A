@@ -11,4 +11,12 @@ print(dictionary_first)
 
 
 empty_list=[]
-empty_dictionary={}
+empty_dictionary={} #same thing can be used for wiping an existing dictionary
+
+#deleting contents/wiping a dictionary
+
+state={"1":"J&K","2":"HP","3":"Pb","4":"UP","5":"HR"}
+print(state)
+
+state={}
+print(state)
