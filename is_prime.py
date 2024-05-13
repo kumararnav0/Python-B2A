@@ -18,7 +18,7 @@ def prime_checker(n):
 # Write your code above this line 👆
     
 #Do NOT change any of the code below👇
-n = int(input()) # Check this number
+n = int(input("Enter the number")) # Check this number
 if prime_checker(n):
   print("It's a prime number.")
 else:
