@@ -1,6 +1,6 @@
 a=50
 def num():
-    
+    global b
     b=60
     print(f"inside function{a}")
     print(f"inside function{b}")
