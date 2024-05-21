@@ -1,6 +1,5 @@
-def greet(a=5):
+def greet():
     print("Hello")
     print("It's so nice to meet you")
     print("Feels good to see you again")
-    print(a+5)
 greet()

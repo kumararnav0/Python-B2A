@@ -31,7 +31,7 @@ for i in range(0,nr_numbers):
     concat1=concat1+str(numbers[a])
 print(concat1)
 concat2=''
-for i in range(0,nr_symbols):
+for i in range(0,nr_symbols)
     a=random.randint(0,len(symbols)-1)
     
     # print(symbols[a])
@@ -44,3 +44,5 @@ print(concat2)
 # print(p+q+r)
 password=concat+concat1+concat2
 print(f"Your password is {password}")
+
+#we can clearly see different level of indentation

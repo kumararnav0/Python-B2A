@@ -23,4 +23,4 @@ def remainder():
     print(f"The remainder of the division is {a%b} ")
 
 
-m=input("What operation would you like to perform \n Addition(A),Subtraction(S),Multiplication(M),Division(D),Square(S),Remainder(R) \n Use code given in brackets as an input")
+m=input("What operation would you like to perform \n Addition(A),Subtraction(S),Multiplication(M),Division(D),Square(S),Remainder(R) \n Use code given in brackets as an input\n")
