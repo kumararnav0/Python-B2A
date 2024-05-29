@@ -28,3 +28,4 @@ elif(40<res<50):
   print(f"Your score is {res}, you are alright together.")
 else:
   print(f"Your score is {res}.")
+  #this is how its done
