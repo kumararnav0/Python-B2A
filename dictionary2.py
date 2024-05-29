@@ -3,6 +3,7 @@ state={"1":"J&K","2":"HP","3":"Pb","4":"UP","5":"HR"}
 
 # state={}
 # print(state)
+#this is how its done
 
 for key in state:
     print(key)
