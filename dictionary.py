@@ -5,6 +5,7 @@ print(dictionary_first)
 dictionary_first["6"]="Piyush"
 print(dictionary_first)
 
+
 #updating values
 dictionary_first["6"]="Pratham"
 print(dictionary_first)
