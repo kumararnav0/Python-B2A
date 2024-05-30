@@ -22,10 +22,13 @@ res=str(final1)+str(final2)
 print(res)
 
 res=int(res)
+
 if(res<10 or res>90):
   print(f"Your score is {res}, you go together like coke and mentos.")
 elif(40<res<50):
   print(f"Your score is {res}, you are alright together.")
 else:
   print(f"Your score is {res}.")
+
+
   #this is how its done
