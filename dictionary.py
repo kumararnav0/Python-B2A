@@ -10,6 +10,8 @@ dictionary_first["6"]="Pratham"
 print(dictionary_first)
 
 
+
+
 empty_list=[]
 empty_dictionary={} #same thing can be used for wiping an existing dictionary
 
