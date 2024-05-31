@@ -22,6 +22,7 @@ empty_dictionary={} #same thing can be used for wiping an existing dictionary
 state={"1":"J&K","2":"HP","3":"Pb","4":"UP","5":"HR"}
 print(state)
 
+
 state={}
 #this is how its done
 print(state)
