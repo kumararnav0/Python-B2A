@@ -1,4 +1,5 @@
 
+
 import os
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -14,6 +15,8 @@ logo='''                 ___________
                        .-------------.
                       /_______________\
 '''
+
+
 print(logo)
 bids={}
 bidding_finished=False
@@ -26,6 +29,7 @@ def find_highest_bidder(bidding_record):
             highest_bid=bid_amt
             winner=bidder
     print(f"The winner is {winner} with a bid of {highest_bid}")
+
 
 
 while  not bidding_finished:
