@@ -5,6 +5,7 @@ c=input("")
 print(n)
 
 
+
 if(c=="easy"):
     for i in range(1,11):
         m=int(input("Guess the number:\n"))
