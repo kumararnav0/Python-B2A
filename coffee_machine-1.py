@@ -6,6 +6,7 @@ MENU = {
         },
         "cost": 1.5,
     },
+
     "latte": {
         "ingredients": {
             "water": 200,
@@ -14,6 +15,8 @@ MENU = {
         },
         "cost": 2.5,
     },
+
+
     "cappuccino": {
         "ingredients": {
             "water": 250,
@@ -23,6 +26,7 @@ MENU = {
         "cost": 3.0,
     }
 }
+
 
 profit = 0
 resources = {
