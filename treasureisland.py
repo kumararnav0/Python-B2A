@@ -1,6 +1,7 @@
 print("Welcome to Treasure Island.\nYour mission is to find the treasure.")
 print("Game is solely based on your ability to make choices.")
 a=input('Choose a Direction Left or Right(L/R) \n')
+
 if(a=='R'):
     print("You fell into a hole. \n Your game is over")
 elif(a=='L'):
